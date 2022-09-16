@@ -22,9 +22,10 @@ var nombre = 'Maria Jose',
     },
     misPasatiempos=['dibujar','ver series','regalonear a mis mascotas',"dibujar de nuevo"],
     miActividadFavorita = function() {
-      console.log('tatuar');
+      return 'tatuar';
     };
     
+
 
 
 
